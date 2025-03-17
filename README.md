@@ -57,4 +57,4 @@ This project is divided into three main parts:
 
 ---
 
-## 📂 **Project Structure**
+
