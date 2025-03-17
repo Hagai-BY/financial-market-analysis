@@ -13,12 +13,14 @@ This project is divided into three main parts:
 ---
 
 ## 🚀 **Highlights**
-✅ **Financial Data Retrieval** – Data pulled directly using `yfinance` and `Reddit API`  
+✅ **Financial Data Retrieval** – Data pulled directly using `yfinance`, `Reddit API` (`PRAW`) and financial news with `Trafilatura`  
 ✅ **Advanced Data Cleaning** – Handling missing values, outliers, and data normalization  
 ✅ **UT-BOT Trading Strategy** – ATR-based trailing stop loss and dynamic entry/exit signals  
 ✅ **Sentiment Analysis with NLP** – Using `distilroberta-financial-sentiment` to assess market sentiment  
+✅ **Full NLP Pipeline** – Structured process for data collection → cleaning → sentiment scoring → result aggregation  
 ✅ **Virality Metric** – Calculating a weighted virality score based on likes and comments  
 ✅ **Backtest Results** – Performance evaluation and optimization using dynamic stop loss  
+
 
 ---
 
