@@ -58,3 +58,12 @@ This project is divided into three main parts:
 ---
 
 
+## 🚀 **How to Run**
+Follow these steps to download and run the project:
+
+### ✅ **1. Clone the repository**  
+Open your terminal and clone the repository:
+```bash
+git clone https://github.com/Hagai-BY/financial-market-analysis.git
+
+
